@@ -2,25 +2,17 @@
 
  CryptedXLS is a program that can perform basic and advanced encryption and decryption. CryptedXLS uses a 256-bit 2-layer encryption logic. In addition to 256-bit encryption, it makes passwords even stronger by using KDF and salt. Thanks to KDF, CryptedXLS allows more secure passwords to be created than simple passwords, so the user's data is encrypted with additional security methods. 
 
+
 ## What News
 - **Crypted Function**
-
-
-
-
-
-
-
 
 
 ### How does KDA work?
 
  KDA recreates the same password as a different password, thus converting a simple password into a stronger one. And it does this without requiring you to memorize a new password. Below, as an example, the same two passwords have been re-encrypted with KDA.
-
 ```
 KDA: MyPassword = b74cde1a6c8d6743e1e9f47c2e4d5d75e2fef9b1b6e78b7e2f5a8d57e90a1234
 ```
-
 ```
 KDA: MyPassword = c58d1e7f43b5a9b9c1d6e2f3e4f7d8e2b9c0a1d2e3f4g5h6i7j8k9l0m1n2o3p
 ```
