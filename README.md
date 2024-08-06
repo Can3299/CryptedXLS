@@ -7,6 +7,12 @@
 
 
 
+
+
+
+
+
+
 ### How does KDA work?
 
  KDA recreates the same password as a different password, thus converting a simple password into a stronger one. And it does this without requiring you to memorize a new password. Below, as an example, the same two passwords have been re-encrypted with KDA.
