@@ -4,8 +4,9 @@
 
 
 ## What News
-- **Crypted Function**
-- 
+- **Added two-layer encryption-decryption**
+- **Basic interface added**
+- **User encryption added**
 
 > ### How does KDA work?
 > 
