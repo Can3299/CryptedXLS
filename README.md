@@ -9,7 +9,6 @@
 - **User encryption added**
 
 > ### How does KDA work?
-> 
 >  KDA recreates the same password as a different password, thus  converting a simple password into a stronger one. And it does this  without requiring you to memorize a new password. Below, as an example, the same two passwords have been re-encrypted with KDA.
 > ```
 > KDA: MyPassword = b74cde1a6c8d6743e1e9f47c2e4d5d75e2fef9b1b6e78b7e2f5a8d57e90a1234
@@ -20,7 +19,6 @@
 
 
 > ### What is 256-bit Encryption?
-> 
 >  This algorithm is one of the most secure and modern encryption algorithms that can be preferred after 128-bit and 192-bit encryption algorithms. 256-bit encryption makes all data much more secure in case they can break 128-bit encryption.
 > 
 >  The higher the bit rate in encryption, the stronger and more unpredictable the encryption will be. For example, the probability of repeating some characters in 128-bit encryption is very low in 256-bit encryption.
@@ -42,3 +40,20 @@
 ### Linux (X86_64/Arm64)
 
 ### Android (X86_64/Arm64)
+
+Android needs an additional application to run bash files as it cannot run bash files independently. The recommended application to run CryptedXLS on Android is Termux. To run CryptedXLS, you need to download it from [the official github page of Termux](https://github.com/termux/termux-app). If you are running Termux for the first time, it is recommended to update Termux. To run the bash file of CryptedXLS, Termux needs to access your device's storage, this is because it will run the bash file and give you an output accordingly.
+
+> #### Update Termux
+> To update Termux, simply type these codes into Termux and press `enter`. Also, if it asks you a question, it is recommended that you put a yes (y) sign and press enter.
+> ```
+> pkg update
+> ```
+> ```
+> pkg upgrade
+> ```
+
+> #### Storage Permission
+> To give storage permission to Termux, just type these codes and **press** enter. After pressing enter, a screen asking for permission from the Android system appears and you should click on the `allow` button on this screen.
+> ```
+> termux-setup-storage
+> ```
