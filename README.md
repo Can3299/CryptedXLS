@@ -35,10 +35,10 @@
 > ```
 
 ## Installation Guide
-### Windows
+### Windows (X86_64/Arm64/IA-64)
 
-### Mac OS
+### Mac OS(X86_64/Arm64)
 
-## Linux (X86_64/Arm64)
+### Linux (X86_64/Arm64)
 
-## Android (X86_64/Arm64)
+#### Android (X86_64/Arm64)
