@@ -39,6 +39,6 @@
 
 ### Mac OS
 
-## Linux (X64_86/Arm64)
+## Linux (X86_64/Arm64)
 
-## Android (X64_86/Arm64)
+## Android (X86_64/Arm64)
