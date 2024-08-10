@@ -2,6 +2,8 @@
 
  CryptedXLS is a program that can perform basic and advanced encryption and decryption. CryptedXLS uses a 256-bit 2-layer encryption logic. In addition to 256-bit encryption, it makes passwords even stronger by using KDF and salt. Thanks to KDF, CryptedXLS allows more secure passwords to be created than simple passwords, so the user's data is encrypted with additional security methods. 
 
+ CryptedXLS has a wide range of downloads and supports most commonly used operating systems. CryptedXLS also supports most processor architectures such as Arm64 X86_64 and IA-64. It can also produce special versions for you if your device does not support CryptedXLS.
+
  
 ## What News? 1.0.0
 - **Added two-layer encryption-decryption**
@@ -72,3 +74,9 @@
 > **aarch64** = CryptedXLS_Linux_Arm64_*version*
 > 
 > *If the output you get when you type the command is not below, please let us know and we will prepare a suitable file for you.
+
+ After finding the file you need to download, you need to transfer CryptedXLS to Termux so that the file can be run more easily. Assuming that the default download folder is "downloads" to transfer CryptedXLS to Termux, you can transfer CryptedXLS to Termux by entering the following commands.
+> ```
+> cd storage/
+> ```
+> These commands allow you to enter your home directory. For example, you can access your downloads folder and documents folder within this directory.
