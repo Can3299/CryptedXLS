@@ -41,6 +41,7 @@
 
 ### Mac OS(X86_64/Arm64)
 
+spotlight search commend(cmd)+space
 ### Linux (X86_64/Arm64)
 
 ### Android (X86_64/Arm64)
