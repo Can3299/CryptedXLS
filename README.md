@@ -79,12 +79,12 @@
 > ```
 > cd storage/
 > ```
-> These command allow you to enter your home directory. For example, you can access your downloads folder and documents folder within this directory.
+> These command allow you to **`enter`** your home directory. For example, you can access your downloads folder and documents folder within this directory.
 
 > ```
 > cd downloads/
 > ```
-> This command allow you to enter your downloads folder, so you can copy the downloaded CryptedXLS file from there to Termux. (This command will work if your default download directory is "downloads").
+> This command allow you to **`enter`** your downloads folder, so you can copy the downloaded CryptedXLS file from there to Termux. (This command will work if your default download directory is "downloads").
 
 > ```
 > ls
@@ -94,12 +94,12 @@
 > ```
 > cp *file* ~/
 > ```
-> This command copies the downloaded CryptedXLS file to the home(~) directory of Termux, so you can run the file more easily. You need to enter the name of the file you downloaded in the *file* statement in the command. For example, someone who downloaded the 1.0.0 version of CryptedXLS for arch64 should write CryptedXLS_Linux_Arm64_1.0.0.sh in the *file* statement.
+> This command copies the downloaded CryptedXLS file to the home(~) directory of Termux, so you can run the file more easily. You need to **`enter`** the name of the file you downloaded in the *file* statement in the command. For example, someone who downloaded the 1.0.0 version of CryptedXLS for arch64 should write CryptedXLS_Linux_Arm64_1.0.0.sh in the *file* statement.
 
 > ```
 > cd
 > ```
-> Since we copied the CryptedXLS file to the home directory, you need to enter this directory to run the file.
+> Since you copied the CryptedXLS file to the home directory, you need to **`enter`** this directory to run the file.
 
 > ```
 > ls
