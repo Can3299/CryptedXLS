@@ -69,9 +69,9 @@
 > ```
 > After you type this command in Termux and press **`enter`**, it will give you some output. According to this output, which files you will download are stated below*.
 > 
-> **X86_64** = CryptedXLS_Linux_X86_64_*version*
+> **X86_64** = CryptedXLS_Linux_X86_64_*version*.sh
 > 
-> **aarch64** = CryptedXLS_Linux_Arm64_*version*
+> **aarch64** = CryptedXLS_Linux_Arm64_*version*.sh
 > 
 > *If the output you get when you type the command is not below, please let us know and we will prepare a suitable file for you.
 
@@ -79,9 +79,19 @@
 > ```
 > cd storage/
 > ```
-> These commands allow you to enter your home directory. For example, you can access your downloads folder and documents folder within this directory.
+> These command allow you to enter your home directory. For example, you can access your downloads folder and documents folder within this directory.
 
 > ```
 > cd downloads/
 > ```
-> This command will allow you to enter your downloads folder, so you can copy the downloaded CryptedXLS file from there to Termux. (This command will work if your default download directory is "downloads").
+> This command allow you to enter your downloads folder, so you can copy the downloaded CryptedXLS file from there to Termux. (This command will work if your default download directory is "downloads").
+
+> ```
+> ls
+> ```
+> You can run this command to make sure that the CryptedXLS run file is in the "downloads" folder, so you can see what files are in the "downloads" folder.
+
+> ```
+> cp *file* ~/
+> ```
+> This command copies the downloaded CryptedXLS file to the home(~) directory of Termux, so you can run the file more easily. You need to enter the name of the file you downloaded in the *file* statement in the command. For example, someone who downloaded the 1.0.0 version of CryptedXLS for arch64 should write CryptedXLS_Linux_Arm64_1.0.0.dh in the *file* statement.
