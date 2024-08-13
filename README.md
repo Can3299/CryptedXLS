@@ -13,10 +13,6 @@
 > KDA: MyPassword = c58d1e7f43b5a9b9c1d6e2f3e4f7d8e2b9c0a1d2e3f4g5h6i7j8k9l0m1n2o3p
 > ```
 
-```console
-$ make generate_doc_buildinfo
-```
-
 > ### What is 256-bit Encryption?
 >  This algorithm is one of the most secure and modern encryption algorithms that can be preferred after 128-bit and 192-bit encryption algorithms. 256-bit encryption makes all data much more secure in case they can break 128-bit encryption.
 > 
@@ -54,23 +50,23 @@ spotlight search commend(cmd)+space
 
 > #### Update Termux
 > To update Termux, simply type these codes into Termux and press **`enter`**. Also, if it asks you a question, it is recommended that you put a yes (**`y`**) sign and press **`enter`**.
+> ```console
+> $ pkg update
 > ```
-> pkg update
-> ```
-> ```
-> pkg upgrade
+> ```console
+> $ pkg upgrade
 > ```
 
 > #### Storage Permission
 > To give storage permission to Termux, just type these codes and **`press`** enter. After pressing enter, a screen asking for permission from the Android system appears and you should click on the **`allow`** button on this screen.
-> ```
-> termux-setup-storage
+> ```console
+> $ termux-setup-storage
 > ```
 
 > #### Find The File That Suits You
 > Before running the file in Termux, you need to find which file you will download. To do this, you can enter the following command in Termux.
-> ```
-> uname -m
+> ```console
+> $ uname -m
 > ```
 > After you type this command in Termux and press **`enter`**, it will give you some output. According to this output, which files you will download are stated below*.
 > 
@@ -81,38 +77,38 @@ spotlight search commend(cmd)+space
 > *If the output you get when you type the command is not below, please let us know and we will prepare a suitable file for you.
 
  After finding the file you need to download, you need to transfer CryptedXLS to Termux so that the file can be run more easily. Assuming that the default download folder is "downloads" to transfer CryptedXLS to Termux, you can transfer CryptedXLS to Termux by entering the following commands.
-> ```
-> cd storage/
+> ```console
+> $ cd storage/
 > ```
 > These command allow you to **`enter`** your home directory. For example, you can access your downloads folder and documents folder within this directory.
 
-> ```
-> cd downloads/
+> ```console
+> $ cd downloads/
 > ```
 > This command allow you to **`enter`** your downloads folder, so you can copy the downloaded CryptedXLS file from there to Termux. (This command will work if your default download directory is "downloads").
 
-> ```
-> ls
+> ```console
+> $ ls
 > ```
 > You can run this command to make sure that the CryptedXLS run file is in the "downloads" folder, so you can see what files are in the "downloads" folder.
 
-> ```
-> cp *file* ~/
+> ```console
+> $ cp *file* ~/
 > ```
 > This command copies the downloaded CryptedXLS file to the home(~) directory of Termux, so you can run the file more easily. You need to **`enter`** the name of the file you downloaded in the *file* statement in the command. For example, someone who downloaded the 1.0.0 version of CryptedXLS for arch64 should write CryptedXLS_Linux_Arm64_1.0.0.sh in the *file* statement.
 
-> ```
-> cd
+> ```cosole
+> $ cd
 > ```
 > Since you copied the CryptedXLS file to the home directory, you need to **`enter`** this directory to run the file.
 
-> ```
-> ls
+> ```console
+> $ ls
 > ```
 > You can use this command to check if the CryptedXLS file is in your home directory.
 
 > #### Run CryptedXLS
-> ```
-> ./*file*
+> ```console
+> $ ./*file*
 > ```
 > You need to write the name of the CryptedXLS file you downloaded in the file section of this command, so you can run the code. For example, someone who downloaded the 1.0.0 version of CryptedXLS for arch64 should write ./CryptedXLS_Linux_Arm64_1.0.0.sh in the *file* statement.
