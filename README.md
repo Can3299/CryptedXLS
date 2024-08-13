@@ -13,6 +13,10 @@
 > KDA: MyPassword = c58d1e7f43b5a9b9c1d6e2f3e4f7d8e2b9c0a1d2e3f4g5h6i7j8k9l0m1n2o3p
 > ```
 
+```console
+$ make generate_doc_buildinfo
+```
+
 > ### What is 256-bit Encryption?
 >  This algorithm is one of the most secure and modern encryption algorithms that can be preferred after 128-bit and 192-bit encryption algorithms. 256-bit encryption makes all data much more secure in case they can break 128-bit encryption.
 > 
