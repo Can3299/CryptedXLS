@@ -1,5 +1,5 @@
 [![Join the Termux discord server](https://img.shields.io/discord/1272138334906482769.svg?label=&logo=discord&logoColor=ffffff&color=5865F2)](https://discord.com/invite/s6GdV7ee43)
-# CryptedXLS
+<h1 align=center> CryptedXLS </h1>
 
  CryptedXLS is a program that can perform basic and advanced encryption and decryption. CryptedXLS uses a 256-bit 2-layer encryption logic. In addition to 256-bit encryption, it makes passwords even stronger by using KDF and salt. Thanks to KDF, CryptedXLS allows more secure passwords to be created than simple passwords, so the user's data is encrypted with additional security methods. 
 
