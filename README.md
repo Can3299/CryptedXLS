@@ -39,8 +39,10 @@
 
 ## Installation Guide
 ### Windows (X86_64/Arm64/IA-64)
+A version for Windows is coming soon.
 
 ### Mac OS(X86_64/Arm64)
+A version for Mac Os is coming soon.
 
 spotlight search commend(cmd)+space
 ### Linux (X86_64/Arm64)
