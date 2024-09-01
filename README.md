@@ -1,5 +1,5 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-<p align="right">
+<div align="right">
  <a href="https://discord.gg/https://discord.com/invite/TBuwBscZms" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
  </a>
@@ -8,7 +8,7 @@
  </a><a href="https://tiktok.com/@the_0fficial?_t=8ctEEWdngf7&_r=1" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok">
  </a>
-</p> 
+</div> 
 
 <h1 align=center> CryptedXLS </h1>
 
