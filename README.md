@@ -1,3 +1,11 @@
+[![](https://visitcount.itsvg.in/api?id=Can3299&icon=0&color=7)](https://visitcount.itsvg.in)
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/TBuwBscZms)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@the_0fficial?si=cQCZenEoYYg8pbG6)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
 [![Join the Termux discord server](https://img.shields.io/discord/1272138334906482769.svg?label=&logo=discord&logoColor=ffffff&color=5865F2)](https://discord.com/invite/s6GdV7ee43)
 <h1 align=center> CryptedXLS </h1>
 
