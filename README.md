@@ -1,4 +1,9 @@
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+<div>
+ <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="">
+ </a>
+</div>
+
 <div align="right">
  <a href="https://discord.gg/https://discord.com/invite/TBuwBscZms" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
