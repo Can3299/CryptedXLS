@@ -56,6 +56,17 @@
 
 ***
 
+## What News On Beta? 1.1.3
+- **Innovations have been made to the interface**
+- **Added file encryption system**
+- **User password is no longer required**
+- **Some bugs fixed**
+- **Added .key system which is stronger than normal encryption**
+
+! Beta versions are published for testing and may not be suitable for normal use, so it is not recommended to use them for normal use.
+
+***
+
 ## Installation Guide
 ### Windows (X86_64/Arm64/IA-64)
 A version for Windows is coming soon.
