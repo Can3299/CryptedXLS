@@ -22,7 +22,7 @@
 
  CryptedXLS is a program that can perform basic and advanced encryption and decryption. CryptedXLS uses a 256-bit 2-layer encryption logic. In addition to 256-bit encryption, it makes passwords even stronger by using KDF and salt. Thanks to KDF, CryptedXLS allows more secure passwords to be created than simple passwords, so the user's data is encrypted with additional security methods. 
 
- CryptedXLS has a wide range of downloads and supports most commonly used operating systems. CryptedXLS also supports most processor architectures such as Arm64 X86_64 and IA-64. It can also produce special versions for you if your device does not support CryptedXLS.
+ CryptedXLS has a wide range of downloads and supports most commonly used operating systems. CryptedXLS also supports most processor architectures such as Arm64 and X86_64. It can also produce special versions for you if your device does not support CryptedXLS.
 
 > ### How does KDA work?
 >  KDA recreates the same password as a different password, thus  converting a simple password into a stronger one. And it does this  without requiring you to memorize a new password. Below, as an example, the same two passwords have been re-encrypted with KDA.
@@ -68,7 +68,7 @@
 ***
 
 ## Installation Guide
-### Windows (X86_64/Arm64/IA-64)
+### Windows (X86_64/Arm64)
 A version for Windows is coming soon.
 
 ### Mac OS(X86_64/Arm64)
