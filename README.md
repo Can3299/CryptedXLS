@@ -24,7 +24,7 @@
 
  CryptedXLS has a wide range of downloads and supports most commonly used operating systems. CryptedXLS also supports most processor architectures such as Arm64 and X86_64. It can also produce special versions for you if your device does not support CryptedXLS.
 
-> ### How does KDA work?
+> ### How does KDF work?
 >  KDA recreates the same password as a different password, thus  converting a simple password into a stronger one. And it does this  without requiring you to memorize a new password. Below, as an example, the same two passwords have been re-encrypted with KDA.
 > ```text
 > KDA: MyPassword = b74cde1a6c8d6743e1e9f47c2e4d5d75e2fef9b1b6e78b7e2f5a8d57e90a1234
