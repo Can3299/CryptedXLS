@@ -48,11 +48,15 @@
 > ```
 
 ***
- 
+
+<br>
+
 ## What News? 1.0.0
 - **Added two-layer encryption-decryption**
 - **Basic interface added**
 - **User encryption added**
+
+<br>
 
 ***
 
@@ -60,10 +64,44 @@
 ### Windows (X86_64/Arm64)
 A version for Windows is coming soon.
 
+
 ### Mac OS(X86_64/Arm64)
 A version for Mac Os is coming soon.
 
+
 ### Linux (X86_64/Arm64)
+
+ You don't need to use any additional applications or a specific shell to run CryptedXLS on Linux, so you can follow the steps below on most Linux distributions without any problems. You just need to type these commands into any linux terminal.
+
+> #### Find The File That Suits You
+> After opening your Linux terminal, you first need to find out which file is suitable for you, to do this, simply type the following command into your terminal and press **`enter`**.
+> ```console
+> $ uname -m
+> ```
+> After you type this command and press **`enter`**, it will give you some output. According to this output, which files you will download are stated below*.
+> 
+> **X86_64** = CryptedXLS_Linux_X86_64_*version*.sh
+> 
+> **aarch64** = CryptedXLS_Linux_Arm64_*version*.sh
+> 
+> *If the output you get when you type the command is not below, please let us know and we will prepare a suitable file for you.
+
+> ```console
+> $ cd ~
+> ```
+> These command after press **`enter`**, allow you to enter your home directory. For example, you can access your downloads folder and documents folder within this directory.
+
+> ```console
+> $ ls
+> ```
+> After pressing **`enter`**, this komt will show you the files in the directory you are in, that is, the Download folder, so you can make sure that cryptedXLS is in this directory.
+
+> #### Run CryptedXLS
+> ```console
+> $ ./*file*
+> ```
+> Before pressing the **`enter`**, you need to write the name of the CryptedXLS file you downloaded in the file section of this command, so you can run the code. For example, someone who downloaded the 1.0.0 version of CryptedXLS for X86_64 should write ./CryptedXLS_Linux_X86_64_1.0.0.sh in the *file* statement.
+
 
 ### Android (X86_64/Arm64)
 
