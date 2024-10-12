@@ -108,6 +108,9 @@ A version for Mac Os is coming soon.
 > ```
 > Before pressing the **`enter`**, you need to write the name of the CryptedXLS file you downloaded in the file section of this command, so you can run the code. For example, someone who downloaded the 1.0.0 version of CryptedXLS for X86_64 should write ./CryptedXLS_Linux_X86_64_1.0.0.sh in the *file* statement.
 
+#### Result;
+![Result img](/.github/Result_Linux.png)
+
 
 ### Android (X86_64/Arm64)
 
