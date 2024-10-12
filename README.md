@@ -1,22 +1,28 @@
-<div>
+<div align="left" style="display: inline;">
  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
  </a>
 </div>
 
-<div align="right">
+<div align="center" style="display: inline;">
+    <a href="https://github.com/Can3299/CryptedXLS/releases" target="_blank">
+        <img src="https://img.shields.io/github/v/release/Can3299/CryptedXLS" alt="ReleaseVersion">
+    </a>
+</div>
+
+<div align="right" style="display: inline;">
  <a href="https://discord.gg/https://discord.com/invite/TBuwBscZms" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
  </a>
- 
+    
  <a href="https://youtube.com/@the_0fficial?si=cQCZenEoYYg8pbG6" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Youtube">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
  </a>
- 
+    
  <a href="https://tiktok.com/@the_0fficial?_t=8ctEEWdngf7&_r=1" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok">
  </a>
-</div> 
+</div>
 
 <h1 align=center> CryptedXLS </h1>
 
