@@ -114,7 +114,7 @@ A version for Mac Os is coming soon.
 
 ### Android (X86_64/Arm64)
 
- Android needs an additional application to run bash files as it cannot run bash files independently. The recommended application to run CryptedXLS on Android is Termux. To run CryptedXLS, you need to download it from [the official github page of Termux](https://github.com/termux/termux-app). If you are running Termux for the first time, it is recommended to update Termux. To run the bash file of CryptedXLS, Termux needs to access your device's storage, this is because it will run the bash file and give you an output accordingly.
+ Android needs an additional application to run executable files as it cannot run executable files independently. The recommended application to run CryptedXLS on Android is Termux. To run CryptedXLS, you need to download it from [the official github page of Termux](https://github.com/termux/termux-app). If you are running Termux for the first time, it is recommended to update Termux. To run the executable file of CryptedXLS, Termux needs to access your device's storage, this is because it will run the executable file and give you an output accordingly.
 
 > #### Update Termux
 > To update Termux, simply type these codes into Termux and press **`enter`**. Also, if it asks you a question, it is recommended that you put a yes (**`y`**) sign and press **`enter`**.
