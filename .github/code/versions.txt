@@ -1,1 +1,13 @@
-1.0.0 - First CryptedXLS Version
+1.0.0 - First CryptedXLS Version  ★★★★★
+=
+test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test
+=
+Features
+------------------
+- This version uses three-layer encryption.
+- This version hashes your password 10,000 times with KDF and Salt.
+- This version includes user encryption.
+=
+Restrictions
+------------------
+- This version cannot generate or read keys.
