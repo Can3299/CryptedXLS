@@ -1,5 +1,5 @@
 /
-1.5.5 - Test CryptedXLS Version  ★★★★★
+1.5.5 - First CryptedXLS GUI Version  ★★★★★
 =
 test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test
 =
@@ -13,7 +13,7 @@ Restrictions
 ------------------
 - This version cannot generate or read keys.
 /
-1.0.0 - First CryptedXLS Version  ★★★★★
+1.0.0 - First CryptedXLS Terminal Version  ★★★★★
 =
 test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test
 =
