@@ -13,7 +13,6 @@ Restrictions
 ------------------
 - This version cannot generate or read keys.
 /
-/
 1.4.0 - First CryptedXLS Comunity Version  ★★★★★
 =
 test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test
